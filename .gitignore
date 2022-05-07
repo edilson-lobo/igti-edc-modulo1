@@ -1,2 +1,4 @@
 *.csv
 .DS_Store
+.terraform
+.terraform-provider-aws_v4.13.0_x5
