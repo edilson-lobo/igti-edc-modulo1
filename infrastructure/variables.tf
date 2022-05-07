@@ -10,7 +10,7 @@ variable "key_pair_name" {
   default = "elobo-igti-teste"
 }
 
-variable "airflow-subnet_id" {
+variable "airflow_subnet_id" {
   default = "subnet-06f8d51532672a2d9"
 }
 
